@@ -2,7 +2,7 @@
 	"name": "redux-toolkit-saga-typescript-boilerplate",
 	"displayName": "Redux Toolkit Saga TypeScript Boilerplate",
 	"description": "",
-	"version": "0.0.1",
+	"version": "1.0.1",
 	"engines": {
 		"vscode": "^1.82.0"
 	},
@@ -10,9 +10,11 @@
 	"publisher": "RushikeshPandit",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/rushikeshpandit/vs-code-extn-rn-ts-/Users/rushikeshpandit/Projects/myWebSite/portfolio_apps/vs-code-extn-rn-template/logo.pngtemplate.git"
+		"url": "https://github.com/rushikeshpandit/vs-code-extn-rn-ts-template.git"
 	},
 	"keywords": [
+		"React Native",
+		"TypeScript",
 		"Redux Toolkit",
 		"Redux Toolkit Saga",
 		"Boilerplate"
